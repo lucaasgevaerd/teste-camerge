@@ -1,0 +1,2 @@
+//  ABRIR O TERMINAL NA PASTA './consumption-and-demand/src'
+//  EXECUTAR O COMANDO ==> 'npx json-server --watch db.json --port 3001'
